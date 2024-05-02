@@ -74,5 +74,5 @@ int main() {
 
     printMST(graph);
 
-    return 0;
+    return 0;
 }
